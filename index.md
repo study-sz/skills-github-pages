@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog\ni love 张效嫚
+title: Welcome to my blog   i love 张效嫚
 ---
 
